@@ -1,0 +1,14 @@
+[
+  {
+    "text": "Vasen seinä",
+    "value": "WallLeft"
+  },
+  {
+    "text": "Oikea seinä",
+    "value": "WallRight"
+  },
+  {
+    "text": "Lattia",
+    "value": "Floor"
+  }
+]
